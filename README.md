@@ -1,4 +1,8 @@
 # ApiTeste
 
-API DE BASE PARA CRIAÇÃO DE OUTRAS API
-ELA FAZ A AUTENTICAÇÃO E DEVOLVE UM TOKEN QUE PODE SER USADO PARA AUTENTICAÇÃO EM OUTROS ENDPOINT DA API
+API DE BASE EM .NET 5.0
+
+Há um EndPoint de autenticação que devolve um Token
+Os demais EndPoints verificam a autenticação baseada no Token
+
+
